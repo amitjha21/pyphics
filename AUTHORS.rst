@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Amit Jha <amit@@amit-jha.com>
+* Amit Jha <amit@amit-jha.com>
 
 Contributors
 ------------
